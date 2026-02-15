@@ -1,0 +1,10 @@
+[
+  {"id": "snorkeling", "name": "Snorkeling", "nameCn": "浮潜", "avgPrice": 40, "currency": "USD", "duration": "2-3 hours", "bestMonths": [1,2,3,4,11,12], "description": "Explore vibrant coral reefs and swim with tropical fish"},
+  {"id": "diving", "name": "Scuba Diving", "nameCn": "深潜", "avgPrice": 90, "currency": "USD", "duration": "2-3 hours", "bestMonths": [1,2,3,4,11,12], "description": "Discover underwater caves, manta rays, and whale sharks"},
+  {"id": "sunset-fishing", "name": "Sunset Fishing", "nameCn": "日落垂钓", "avgPrice": 55, "currency": "USD", "duration": "2 hours", "bestMonths": [1,2,3,4,5,6,7,8,9,10,11,12], "description": "Traditional line fishing on a dhoni boat at sunset"},
+  {"id": "dolphin-cruise", "name": "Dolphin Cruise", "nameCn": "追海豚", "avgPrice": 50, "currency": "USD", "duration": "1.5 hours", "bestMonths": [1,2,3,4,5,10,11,12], "description": "Watch spinner dolphins in their natural habitat"},
+  {"id": "spa", "name": "Overwater Spa", "nameCn": "水上SPA", "avgPrice": 150, "currency": "USD", "duration": "1-2 hours", "bestMonths": [1,2,3,4,5,6,7,8,9,10,11,12], "description": "Relaxing spa treatments in overwater pavilions"},
+  {"id": "sandbank-picnic", "name": "Sandbank Picnic", "nameCn": "沙洲野餐", "avgPrice": 120, "currency": "USD", "duration": "3-4 hours", "bestMonths": [11,12,1,2,3,4], "description": "Private picnic on a pristine uninhabited sandbank"},
+  {"id": "whale-shark", "name": "Whale Shark Excursion", "nameCn": "鲸鲨之旅", "avgPrice": 100, "currency": "USD", "duration": "3-4 hours", "bestMonths": [5,6,7,8,9,10,11], "description": "Swim alongside gentle whale sharks in South Ari Atoll"},
+  {"id": "island-hopping", "name": "Local Island Hopping", "nameCn": "跳岛游", "avgPrice": 65, "currency": "USD", "duration": "4-5 hours", "bestMonths": [1,2,3,4,5,10,11,12], "description": "Visit local inhabited islands and experience Maldivian culture"}
+]
