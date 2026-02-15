@@ -1,0 +1,14 @@
+[
+  {"name": "North Malé Atoll", "dhivehi": "Kaafu", "code": "K", "lat": 4.4, "lng": 73.5, "resortCount": 27},
+  {"name": "South Malé Atoll", "dhivehi": "Kaafu", "code": "K", "lat": 3.9, "lng": 73.5, "resortCount": 17},
+  {"name": "Ari Atoll (North)", "dhivehi": "Alifu Alifu", "code": "AA", "lat": 4.0, "lng": 72.8, "resortCount": 14},
+  {"name": "Ari Atoll (South)", "dhivehi": "Alifu Dhaalu", "code": "ADh", "lat": 3.6, "lng": 72.8, "resortCount": 15},
+  {"name": "Baa Atoll", "dhivehi": "Baa", "code": "B", "lat": 5.0, "lng": 73.0, "resortCount": 12, "unescoReserve": true},
+  {"name": "Lhaviyani Atoll", "dhivehi": "Lhaviyani", "code": "Lh", "lat": 5.4, "lng": 73.5, "resortCount": 8},
+  {"name": "Noonu Atoll", "dhivehi": "Noonu", "code": "N", "lat": 5.8, "lng": 73.3, "resortCount": 5},
+  {"name": "Raa Atoll", "dhivehi": "Raa", "code": "R", "lat": 5.6, "lng": 72.9, "resortCount": 7},
+  {"name": "Dhaalu Atoll", "dhivehi": "Dhaalu", "code": "Dh", "lat": 2.8, "lng": 72.9, "resortCount": 4},
+  {"name": "Laamu Atoll", "dhivehi": "Laamu", "code": "L", "lat": 1.9, "lng": 73.5, "resortCount": 3},
+  {"name": "Gaafu Alifu Atoll", "dhivehi": "Gaafu Alifu", "code": "GA", "lat": 0.6, "lng": 73.2, "resortCount": 2},
+  {"name": "Addu Atoll", "dhivehi": "Seenu", "code": "S", "lat": -0.6, "lng": 73.2, "resortCount": 3}
+]
