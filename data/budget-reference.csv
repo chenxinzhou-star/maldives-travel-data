@@ -1,0 +1,5 @@
+tier,label,label_cn,nightly_min_usd,nightly_max_usd,transfer_type,example_resorts,notes
+budget,Budget,$经济型,150,350,speedboat,"Bandos, Adaaran Select Hudhuranfushi",Great for first-timers and short trips
+mid,Mid-Range,$$中端,350,700,"speedboat|seaplane","Cocoon, Kurumba, Centara Grand",Good balance of quality and price
+premium,Premium,$$$高端,700,1500,seaplane,"Lily Beach, Anantara Dhigu, Niyama",Luxury with all-inclusive options
+ultra,Ultra Luxury,$$$$顶奢,1500,5000+,seaplane,"Soneva Fushi, St. Regis, Waldorf Astoria",World-class exclusive experiences
